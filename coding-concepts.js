@@ -1,4 +1,5 @@
 // ASSESSMENT 1: Coding Conceptual Questions
+// Immanuel Pettigrew Golf Cohort 
 
 // Examine the following examples.
 
