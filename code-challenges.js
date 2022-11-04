@@ -5,7 +5,8 @@
 
 // Describing your process is required.
 
-// --------------------INSTRUCTOR EXAMPLE: Create a function that takes in two strings and determines which of the two strings has more characters. Use the two sets of test variables provided.
+// --------------------INSTRUCTOR EXAMPLE: Create a function that takes in two strings and determines 
+// which of the two strings has more characters. Use the two sets of test variables provided.
 
 // Describe your process:
 //  - Create an function name fruitRole.
